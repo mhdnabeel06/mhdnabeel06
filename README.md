@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Muhammed Nabeel 👋
 
-<!--
-**mhdnabeel06/mhdnabeel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 PHP Laravel Developer
 
-Here are some ideas to get you started:
+🚀 3+ Years of Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Application Development
+
+🛒 E-commerce Solutions
+
+🔗 REST API Development
+
+💳 Payment Gateway Integration
+
+
+## Skills
+
+- PHP
+- Laravel
+- MySQL
+- REST APIs
+- JavaScript
+- Bootstrap
+- HTML & CSS
+- Git/GitHub
+- Linux & Nginx
+
+
+## Featured Projects
+
+### 🛒 Laravel E-commerce Platform
+Developed a complete e-commerce solution with product management, checkout, payment integration, and admin panel.
+
+### 📊 Dynamic CMS & Admin Dashboard
+Built custom CMS solutions with role-based access control and content management.
+
+### 🔗 REST API Development
+Designed and integrated REST APIs for web applications and third-party services.
+
+
+## Contact
+
+📧 Email: mhdnabeeltt@gmail.com
+
+📱 Phone: +91 8089334718
+
+💼 LinkedIn:
+https://www.linkedin.com/in/muhammed-n
+
+📍 Kerala, India
